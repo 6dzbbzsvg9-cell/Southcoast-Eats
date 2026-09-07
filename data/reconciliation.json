@@ -1,0 +1,2890 @@
+{
+  "version": "0.3-chain-and-omission-reconciliation",
+  "generated": "2026-08-26",
+  "active_count": 81,
+  "staging_count": 28,
+  "retired_count": 3,
+  "active": [
+    {
+      "name": "110 Grill",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "american",
+        "chicken",
+        "seafood",
+        "burgers"
+      ],
+      "tags": [
+        "american",
+        "chicken",
+        "seafood",
+        "burgers"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Al Mac's Diner",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Breakfast",
+        "Diner"
+      ],
+      "tags": [
+        "breakfast"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Aliança Platter House",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Portuguese",
+        "Seafood"
+      ],
+      "tags": [
+        "portuguese",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Alice's Diner",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Breakfast",
+        "Diner"
+      ],
+      "tags": [
+        "breakfast",
+        "american"
+      ],
+      "services": [
+        "dine_in",
+        "takeout"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Barca Restaurant",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Portuguese",
+        "Seafood"
+      ],
+      "tags": [
+        "portuguese",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Barrett's Waterfront",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "American",
+        "Seafood",
+        "Burgers"
+      ],
+      "tags": [
+        "american",
+        "seafood",
+        "burgers"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Burger King — 225 President Ave",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "fast_food"
+      ],
+      "tags": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "fast_food",
+        "late_night"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery",
+        "drive_through"
+      ],
+      "quality": 5.0,
+      "deal": 7.5,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "Burger King — 66 Plymouth Ave",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "fast_food"
+      ],
+      "tags": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "fast_food",
+        "late_night"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery",
+        "drive_through"
+      ],
+      "quality": 5.0,
+      "deal": 7.5,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "Caldeiras Restaurant",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "portuguese"
+      ],
+      "tags": [
+        "portuguese"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Caravela Restaurant",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Portuguese",
+        "Seafood"
+      ],
+      "tags": [
+        "portuguese",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "CFC Crispy Fried Chicken",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Chicken"
+      ],
+      "tags": [
+        "chicken"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Chick-fil-A — 700 William S Canning Blvd",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "chicken",
+        "fast_food",
+        "breakfast"
+      ],
+      "tags": [
+        "chicken",
+        "fast_food",
+        "breakfast"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery",
+        "drive_through"
+      ],
+      "quality": 7.0,
+      "deal": 7.0,
+      "speed": 8.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "China Star",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "chinese",
+        "chicken",
+        "seafood"
+      ],
+      "tags": [
+        "chinese",
+        "chicken",
+        "seafood"
+      ],
+      "services": [
+        "takeout"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Christopher's",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Cafe",
+        "Breakfast"
+      ],
+      "tags": [
+        "coffee",
+        "breakfast"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Sandwiches"
+      ],
+      "tags": [
+        "sandwiches"
+      ],
+      "services": [
+        "takeout",
+        "delivery"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "David's Fish Market",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Seafood"
+      ],
+      "tags": [
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Denny's — 243 William S Canning Blvd",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "breakfast",
+        "american",
+        "diner"
+      ],
+      "tags": [
+        "breakfast",
+        "american",
+        "diner",
+        "late_night"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery"
+      ],
+      "quality": 6.5,
+      "deal": 7.0,
+      "speed": 6.5,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "Domino's Pizza",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Pizza"
+      ],
+      "tags": [
+        "pizza"
+      ],
+      "services": [
+        "takeout",
+        "delivery"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Dunkin'",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "breakfast",
+        "coffee",
+        "donuts"
+      ],
+      "tags": [
+        "breakfast",
+        "coffee",
+        "donuts"
+      ],
+      "services": [
+        "delivery",
+        "drive_through",
+        "takeout"
+      ],
+      "quality": 7.4,
+      "deal": 7.9,
+      "speed": 9.7,
+      "distance": 0.5,
+      "hours": {
+        "mon": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ]
+      },
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "Ed's Famous BBQ",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "bbq",
+        "chicken"
+      ],
+      "tags": [
+        "bbq",
+        "chicken"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Fall River Grill",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "portuguese",
+        "american"
+      ],
+      "tags": [
+        "portuguese",
+        "american"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Faneek's",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "hot dogs",
+        "american"
+      ],
+      "tags": [
+        "hot dogs",
+        "quick-service"
+      ],
+      "services": [
+        "takeout"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Gina's Restaurant",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "breakfast",
+        "american"
+      ],
+      "tags": [
+        "breakfast",
+        "american"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Harry's Restaurant",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Breakfast",
+        "Pizza",
+        "Sandwiches"
+      ],
+      "tags": [
+        "breakfast",
+        "pizza",
+        "sandwiches"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Highland Pizza",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Pizza"
+      ],
+      "tags": [
+        "pizza"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Honey Dew Donuts — 118 Plymouth Ave",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "coffee",
+        "donuts",
+        "breakfast",
+        "bakery",
+        "fast_food"
+      ],
+      "tags": [
+        "coffee",
+        "donuts",
+        "breakfast",
+        "bakery",
+        "fast_food"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery",
+        "drive_through"
+      ],
+      "quality": 7.0,
+      "deal": 7.5,
+      "speed": 8.5,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "Hong Meas Restaurant",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Cambodian",
+        "Chicken"
+      ],
+      "tags": [
+        "chicken"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "J.J.'s Coney Island Hot Dogs",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "hot dogs",
+        "american"
+      ],
+      "tags": [
+        "hot dogs",
+        "quick-service"
+      ],
+      "services": [
+        "takeout"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Sandwiches"
+      ],
+      "tags": [
+        "sandwiches"
+      ],
+      "services": [
+        "takeout",
+        "delivery"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Joe's Shish Kabob Lebanese",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "lebanese",
+        "mediterranean",
+        "chicken"
+      ],
+      "tags": [
+        "mediterranean",
+        "chicken"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "KFC — 484 Pleasant St",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "chicken",
+        "fast_food"
+      ],
+      "tags": [
+        "chicken",
+        "fast_food"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery",
+        "drive_through"
+      ],
+      "quality": 5.5,
+      "deal": 7.5,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "Leddy's",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Bakery"
+      ],
+      "tags": [
+        "bakery"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Marcucci's",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "sandwiches",
+        "bakery"
+      ],
+      "tags": [
+        "sandwiches",
+        "bakery"
+      ],
+      "services": [
+        "takeout"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Marisqueira | Azores Restaurant",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Seafood",
+        "Portuguese",
+        "Chicken"
+      ],
+      "tags": [
+        "seafood",
+        "portuguese",
+        "chicken"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Marzilli's",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "sandwiches",
+        "bakery"
+      ],
+      "tags": [
+        "sandwiches",
+        "bakery"
+      ],
+      "services": [
+        "takeout"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "McDonald's — 1690 President Ave",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "coffee",
+        "fast_food"
+      ],
+      "tags": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "coffee",
+        "fast_food",
+        "late_night"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery",
+        "drive_through"
+      ],
+      "quality": 5.5,
+      "deal": 8.0,
+      "speed": 7.5,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "McDonald's — 300 Plymouth Ave",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "coffee",
+        "fast_food"
+      ],
+      "tags": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "coffee",
+        "fast_food",
+        "late_night"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery",
+        "drive_through"
+      ],
+      "quality": 5.5,
+      "deal": 8.0,
+      "speed": 7.5,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "McDonald's — 834 Brayton Ave",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "coffee",
+        "fast_food"
+      ],
+      "tags": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "coffee",
+        "fast_food",
+        "late_night"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery",
+        "drive_through"
+      ],
+      "quality": 5.5,
+      "deal": 8.0,
+      "speed": 7.5,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "McGovern's",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "american",
+        "italian-american",
+        "seafood",
+        "chicken"
+      ],
+      "tags": [
+        "american",
+        "seafood",
+        "chicken",
+        "steak",
+        "family"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery"
+      ],
+      "quality": 8.2,
+      "deal": 7.5,
+      "speed": 6.5,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "prior verified dataset"
+    },
+    {
+      "name": "Merrill's on the Waterfront",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "american",
+        "seafood"
+      ],
+      "tags": [
+        "american",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Mesa 21",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Portuguese",
+        "Seafood",
+        "Steak"
+      ],
+      "tags": [
+        "portuguese",
+        "seafood",
+        "steak"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Minerva's III Pizzeria",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Pizza"
+      ],
+      "tags": [
+        "pizza"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Miss Lizzie's Coffee",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Breakfast",
+        "Cafe"
+      ],
+      "tags": [
+        "breakfast",
+        "coffee"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Mr. Chen",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Chinese",
+        "Chicken",
+        "Seafood"
+      ],
+      "tags": [
+        "chinese",
+        "chicken",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "New China",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "chinese",
+        "chicken",
+        "seafood"
+      ],
+      "tags": [
+        "chinese",
+        "chicken",
+        "seafood"
+      ],
+      "services": [
+        "takeout"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "New Garden",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Chinese",
+        "Chicken",
+        "Seafood"
+      ],
+      "tags": [
+        "chinese",
+        "chicken",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "New York Bagel Co",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Bagels",
+        "Breakfast"
+      ],
+      "tags": [
+        "breakfast"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Nick's Hot Dogs",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "hot dogs",
+        "american"
+      ],
+      "tags": [
+        "hot dogs",
+        "quick-service"
+      ],
+      "services": [
+        "takeout"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Papa Gino's",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Pizza",
+        "Italian"
+      ],
+      "tags": [
+        "pizza",
+        "italian"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Papa John's",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Pizza"
+      ],
+      "tags": [
+        "pizza"
+      ],
+      "services": [
+        "takeout",
+        "delivery"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Patti's Pierogis",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "polish",
+        "italian"
+      ],
+      "tags": [
+        "polish",
+        "italian"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Pier 52",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Seafood"
+      ],
+      "tags": [
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Primo on Water Street",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Pizza",
+        "Italian"
+      ],
+      "tags": [
+        "pizza",
+        "italian"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Sagres Restaurant",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "portuguese",
+        "seafood"
+      ],
+      "tags": [
+        "portuguese",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Sam's Bakery",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "bakery",
+        "breakfast"
+      ],
+      "tags": [
+        "bakery",
+        "breakfast"
+      ],
+      "services": [
+        "takeout"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Scottie's Pub",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "pub",
+        "american",
+        "portuguese",
+        "seafood",
+        "burgers"
+      ],
+      "tags": [
+        "pub",
+        "american",
+        "portuguese",
+        "seafood",
+        "burgers",
+        "wings",
+        "late_night"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery"
+      ],
+      "quality": 7.8,
+      "deal": 7.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "prior verified dataset"
+    },
+    {
+      "name": "Shortys Pub",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Pub",
+        "Pizza",
+        "Chicken"
+      ],
+      "tags": [
+        "pub",
+        "pizza",
+        "chicken"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Subway",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Sandwiches"
+      ],
+      "tags": [
+        "sandwiches"
+      ],
+      "services": [
+        "takeout",
+        "delivery"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Sweet Rose Cafe",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "bakery",
+        "coffee",
+        "breakfast"
+      ],
+      "tags": [
+        "bakery",
+        "coffee",
+        "breakfast"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "T.A. Restaurant",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "portuguese",
+        "seafood"
+      ],
+      "tags": [
+        "portuguese",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Taco Bell — 150 Plymouth Ave",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "mexican",
+        "fast_food",
+        "breakfast"
+      ],
+      "tags": [
+        "mexican",
+        "fast_food",
+        "breakfast",
+        "late_night"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery",
+        "drive_through"
+      ],
+      "quality": 5.5,
+      "deal": 8.0,
+      "speed": 7.5,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "The Cove",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "seafood",
+        "american",
+        "chicken"
+      ],
+      "tags": [
+        "seafood",
+        "american",
+        "chicken"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Tipsy Toboggan",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "american",
+        "bar"
+      ],
+      "tags": [
+        "american",
+        "pub"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Wendy's — 35 Mariano Bishop Blvd",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "fast_food"
+      ],
+      "tags": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "fast_food",
+        "late_night"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery",
+        "drive_through"
+      ],
+      "quality": 5.5,
+      "deal": 7.5,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "Wendy's — 500 Bedford St",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "fast_food"
+      ],
+      "tags": [
+        "american",
+        "burgers",
+        "chicken",
+        "breakfast",
+        "fast_food",
+        "late_night"
+      ],
+      "services": [
+        "takeout",
+        "dine_in",
+        "delivery",
+        "drive_through"
+      ],
+      "quality": 5.5,
+      "deal": 7.5,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "current chain verification"
+    },
+    {
+      "name": "Asian Gourmet",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Chinese",
+        "Thai",
+        "Chicken"
+      ],
+      "tags": [
+        "chinese",
+        "chicken"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Boat House Waterfront Dining",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "seafood",
+        "chicken",
+        "steak"
+      ],
+      "tags": [
+        "seafood",
+        "chicken",
+        "steak"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "China Sea",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "chinese",
+        "chicken",
+        "seafood"
+      ],
+      "tags": [
+        "chinese",
+        "chicken",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Classic Pizza",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "pizza"
+      ],
+      "tags": [
+        "pizza"
+      ],
+      "services": [
+        "takeout"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Sandwiches"
+      ],
+      "tags": [
+        "sandwiches"
+      ],
+      "services": [
+        "takeout",
+        "delivery"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Domino's Pizza",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Pizza"
+      ],
+      "tags": [
+        "pizza"
+      ],
+      "services": [
+        "takeout",
+        "delivery"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Family Ties",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "breakfast",
+        "lunch"
+      ],
+      "tags": [
+        "breakfast"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Four Corners Grille",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "seafood",
+        "burgers",
+        "chicken",
+        "pizza"
+      ],
+      "tags": [
+        "seafood",
+        "burgers",
+        "chicken",
+        "pizza"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Groundswell Cafe + Bakery",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "cafe",
+        "bakery",
+        "breakfast"
+      ],
+      "tags": [
+        "coffee",
+        "bakery",
+        "breakfast"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Sandwiches"
+      ],
+      "tags": [
+        "sandwiches"
+      ],
+      "services": [
+        "takeout",
+        "delivery"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Macray's Seafood",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "seafood"
+      ],
+      "tags": [
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Mediterranean Pizza",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "pizza"
+      ],
+      "tags": [
+        "pizza"
+      ],
+      "services": [
+        "dine_in",
+        "takeout"
+      ],
+      "quality": 8.4,
+      "deal": 8.0,
+      "speed": 7.5,
+      "distance": 1.1,
+      "hours": {
+        "mon": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "tue": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "wed": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "thu": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "fri": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "sat": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "sun": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ]
+      },
+      "status": "active",
+      "data_confidence": "high",
+      "source": "Sort Test 011"
+    },
+    {
+      "name": "Papa Gino's",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Pizza",
+        "Italian"
+      ],
+      "tags": [
+        "pizza",
+        "italian"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Papa John's",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Pizza"
+      ],
+      "tags": [
+        "pizza"
+      ],
+      "services": [
+        "takeout",
+        "delivery"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    },
+    {
+      "name": "Sports Kitchen",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "breakfast",
+        "pizza",
+        "burgers",
+        "chicken",
+        "seafood"
+      ],
+      "tags": [
+        "breakfast",
+        "pizza",
+        "burgers",
+        "chicken",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "high",
+      "source": "V3 seed"
+    },
+    {
+      "name": "Subway",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Sandwiches"
+      ],
+      "tags": [
+        "sandwiches"
+      ],
+      "services": [
+        "takeout",
+        "delivery"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "active",
+      "data_confidence": "medium",
+      "source": "Local/user-confirmed + chain pass"
+    }
+  ],
+  "staging": [
+    {
+      "name": "Afonso's Bakery",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Bakery",
+        "Portuguese"
+      ],
+      "tags": [
+        "bakery",
+        "portuguese"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Asian House",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Chinese",
+        "Japanese",
+        "Thai",
+        "Chicken",
+        "Seafood"
+      ],
+      "tags": [
+        "chinese",
+        "chicken",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "China Sails",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Chinese",
+        "Chicken",
+        "Seafood"
+      ],
+      "tags": [
+        "chinese",
+        "chicken",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Cinderella's Bakery",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Bakery",
+        "Portuguese"
+      ],
+      "tags": [
+        "bakery",
+        "portuguese"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Golden River",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Chinese",
+        "Chicken",
+        "Seafood"
+      ],
+      "tags": [
+        "chinese",
+        "chicken",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Hartley's Original Pork Pies",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Bakery",
+        "Specialty"
+      ],
+      "tags": [
+        "bakery",
+        "specialty"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Mario's Lebanese Bakery",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Bakery",
+        "Lebanese"
+      ],
+      "tags": [
+        "bakery",
+        "lebanese"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Modern Pontes Bakery",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Bakery",
+        "Portuguese"
+      ],
+      "tags": [
+        "bakery",
+        "portuguese"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Restaurant Cornerstone Preto's",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Cape Verdean"
+      ],
+      "tags": [
+        "cape verdean"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Royal Pizza",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Pizza",
+        "Sandwiches"
+      ],
+      "tags": [
+        "pizza",
+        "sandwiches"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Sheri's Place",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Breakfast",
+        "Diner"
+      ],
+      "tags": [
+        "breakfast",
+        "diner"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Twisted Griddle",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Breakfast",
+        "Brunch"
+      ],
+      "tags": [
+        "breakfast",
+        "brunch"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Atlantic Sports Bar & Restaurant",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "American",
+        "Pub"
+      ],
+      "tags": [
+        "american",
+        "pub"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Barcellos Family Restaurant",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "American",
+        "Seafood"
+      ],
+      "tags": [
+        "american",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Black Goose",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Pub",
+        "American"
+      ],
+      "tags": [
+        "pub",
+        "american"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Coastal Roasters",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Coffee",
+        "Breakfast"
+      ],
+      "tags": [
+        "coffee",
+        "breakfast"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Le Moulin Rouge",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "French",
+        "Cafe"
+      ],
+      "tags": [
+        "french",
+        "cafe"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Little Rhody Pasta",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Italian",
+        "Pasta"
+      ],
+      "tags": [
+        "italian"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Localz",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "American",
+        "Pub"
+      ],
+      "tags": [
+        "american",
+        "pub"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Moose Cafe",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Cafe",
+        "Breakfast"
+      ],
+      "tags": [
+        "cafe",
+        "breakfast"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Pine House",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "American"
+      ],
+      "tags": [
+        "american"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Plouf Plouf",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "French",
+        "American"
+      ],
+      "tags": [
+        "french",
+        "american"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Red Dory",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Seafood",
+        "American"
+      ],
+      "tags": [
+        "seafood",
+        "american"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Riptide",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Seafood",
+        "Pub"
+      ],
+      "tags": [
+        "seafood",
+        "pub"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Sabitado's",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Portuguese",
+        "American"
+      ],
+      "tags": [
+        "portuguese",
+        "american"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Sakonnet River Grille",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "American",
+        "Seafood"
+      ],
+      "tags": [
+        "american",
+        "seafood"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "V3 coverage"
+    },
+    {
+      "name": "Spring Primavera",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Italian"
+      ],
+      "tags": [
+        "italian"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    },
+    {
+      "name": "Trattoria Romana",
+      "town": "Tiverton",
+      "state": "RI",
+      "cuisines": [
+        "Italian"
+      ],
+      "tags": [
+        "italian"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "staging",
+      "data_confidence": "medium",
+      "source": "Prior discovery pass; needs reconciliation"
+    }
+  ],
+  "retired": [
+    {
+      "name": "Mee Sum",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Chinese"
+      ],
+      "tags": [
+        "chinese"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "retired",
+      "data_confidence": "high",
+      "source": "Known closed"
+    },
+    {
+      "name": "Sun China",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "Chinese"
+      ],
+      "tags": [
+        "chinese"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "retired",
+      "data_confidence": "high",
+      "source": "Known closed"
+    },
+    {
+      "name": "Oriental Chow Mein Co.",
+      "town": "Fall River",
+      "state": "MA",
+      "cuisines": [
+        "food retail"
+      ],
+      "tags": [
+        "non_restaurant"
+      ],
+      "services": [
+        "takeout",
+        "dine_in"
+      ],
+      "quality": 7.5,
+      "deal": 5.0,
+      "speed": 7.0,
+      "distance": 5.0,
+      "status": "retired",
+      "data_confidence": "high",
+      "source": "Known non-restaurant"
+    }
+  ],
+  "notes": [
+    "Reconciled against prior datasets and current chain/location checks.",
+    "Added previously omitted McGovern's and Scottie's Pub.",
+    "Added current Fall River drive-through/quick-service chain locations and service modes.",
+    "Retired Mee Sum, Sun China, and Oriental Chow Mein Co. remains excluded from active recommendations.",
+    "Provisional quality/deal/speed/distance values remain test-only unless directly verified."
+  ]
+}
